@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="footer">
             </div>
             <div className="copyright">
-                <p className="copyright-blog">© 2022 Gilbert Hutapea. All Rights Reserved</p>
+                <p className="copyright-blog"> All Rights Reserved</p>
             </div>
         </div>
     )
